@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         //NewsDetailFragment frag = (NewsDetailFragment)
         //        getFragmentManager().findFragmentById(R.id.news_frag);
         //frag.setNewsId(1);
